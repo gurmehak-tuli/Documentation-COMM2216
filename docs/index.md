@@ -2,11 +2,55 @@
 
 This user guide will explain how to use DaVinci Resolve to edit videos. DaVinci Resolve is a powerful professional video editing program, and in this guide, we'll show you how to set up your project, import footage, edit your footage, and export your footage. Our goal is to explain the basic steps of editing video footage and introduce you to the basic features that DaVinci Resolve offers.
 
-## Who is this guide for
+## Who is this guide for?
 
-##  Requirements and Prerequisites
 
-## Outcome
+This guide is designed for beginners who are new to DaVinci Resolve or video editing in general. Whether you're a content creator, a student, or someone looking to explore professional video editing, this guide will help you get started with the basics of DaVinci Resolve.
+
+
+## Requirements and Prerequisites
+
+
+### Hardware
+- A computer with a multi-core processor (Intel or AMD)
+- Minimum 16GB of RAM (32GB or more recommended for 4K or higher resolution projects)
+- A dedicated GPU with at least 2GB of VRAM (4GB or more recommended for better performance)
+- Sufficient storage space for your project files and media
+
+
+### Software
+- DaVinci Resolve 18+ (Free or Studio)  
+- Windows 10 or later
+
+
+### Basic Knowledge
+- Familiarity with your computer's operating system
+- Basic understanding of video formats and file management
+
+
+### Media Preparation
+- Have your video footage, audio files, and any other media ready for import
+
+
+## Outcome  
+
+
+After completing this guide, you’ll be able to:  
+
+
+**Setup**  
+- Create and configure new projects  
+- Set project resolution and frame rate  
+
+
+**Editing Basics**  
+- Import and organize media  
+- Cut, trim, and arrange clips  
+- Add transitions/titles  
+
+
+**Export**  
+- Render projects for YouTube, social media, etc. 
 
 ## Typographical Conventions
 
