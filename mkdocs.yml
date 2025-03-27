@@ -1,4 +1,4 @@
-site_name: My MkDocs Material Documentation
+site_name: DaVinci Resolve 19 User Documentation
 site_url: https://sitename.example
 theme:
   name: material
@@ -24,5 +24,11 @@ theme:
         name: Light mode
       primary: blue
       accent: deep orange
+
+markdown_extensions:
+- admonition
+- attr_list
+
+
 
 copyright: Copyright &copy; 2025 Guri & Patrick
