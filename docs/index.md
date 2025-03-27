@@ -4,12 +4,10 @@ This user guide will explain how to use DaVinci Resolve to edit videos. DaVinci 
 
 ## Who is this guide for?
 
-
 This guide is designed for beginners who are new to DaVinci Resolve or video editing in general. Whether you're a content creator, a student, or someone looking to explore professional video editing, this guide will help you get started with the basics of DaVinci Resolve.
 
 
 ## Requirements and Prerequisites
-
 
 ### Hardware
 - A computer with a multi-core processor (Intel or AMD)
@@ -34,22 +32,21 @@ This guide is designed for beginners who are new to DaVinci Resolve or video edi
 
 ## Outcome  
 
-
 After completing this guide, you’ll be able to:  
 
 
-**Setup**  
+### Setup  
 - Create and configure new projects  
 - Set project resolution and frame rate  
 
 
-**Editing Basics**  
+### Editing Basics 
 - Import and organize media  
 - Cut, trim, and arrange clips  
 - Add transitions/titles  
 
 
-**Export**  
+### Export  
 - Render projects for YouTube, social media, etc. 
 
 ## Typographical Conventions
