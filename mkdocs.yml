@@ -8,6 +8,10 @@ theme:
   favicon: assets/favicon.ico
   features:
     - navigation.footer
+    # - navigation.tabs #Optional if we want to change the navigation
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
   palette:
     # Dark Mode
     - scheme: slate
@@ -24,6 +28,9 @@ theme:
         name: Light mode
       primary: blue
       accent: deep orange
+
+plugins:
+  - search
 
 markdown_extensions:
 - admonition
