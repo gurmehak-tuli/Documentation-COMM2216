@@ -64,7 +64,7 @@ After completing this guide, you’ll be able to:
 
 3.  When interacting with DaVinci Resolve's graphial user interface (GUI), we might give you a helpful GIF that shows you what to do. For example, here is a GIF that shows you how to add imported footage to your timeline so you can begin editing the footage.
 
-    ![Add a video to your timeline](ADD_VIDEO_TO_TIMELINE.gif){: style="width:300px; height:200px"}
+    ![Add a video to your timeline](/assets/ADD_VIDEO_TO_TIMELINE.gif){: style="width:300px; height:200px"}
 
 4.  We'll use special info blocks to give you extra information, inform you when a task is done, or warn you before you make an irreversible action. Here's what each of those info blocks look like.
 
@@ -77,8 +77,7 @@ After completing this guide, you’ll be able to:
     !!! warning
         This block will warn you about committing an irreversible action.
 
-## Warnings
-
-1. DaVinci Resolve requires significant computing power to run, so we recommend closing all programs that you aren't currently using. This will help you avoid crashing.
-2. Always remember to save your work before exiting DaVinci Resolve. You can do this by going to *File -> Save* or by pressing **Cntrl + S**.
-3. This guide will not explain any tools in the **Fusion**, **Colour**, or **Audio pages**. If you need to use these pages, you'll need to find a different user guide.
+!!! warning
+    1. DaVinci Resolve requires significant computing power to run, so we recommend closing all programs that you aren't currently using. This will help you avoid crashing.
+    2. Always remember to save your work before exiting DaVinci Resolve. You can do this by going to *File -> Save* or by pressing **Cntrl + S**.
+    3. This guide will not explain any tools in the **Fusion**, **Colour**, or **Audio pages**. If you need to use these pages, you'll need to find a different user guide.

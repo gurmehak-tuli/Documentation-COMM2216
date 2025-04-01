@@ -3,35 +3,54 @@
 #### Navigate to the Edit Page
 1. Switch to the **Edit** page using the bottom navigation panel
 
+    ![Add a video to your timeline](\assets\opening_edit-ezgif.com-video-to-gif-converter.gif){: style="width:600px; height:350px; display: block; margin: 0 auto"}
+
 #### Access the Effects Toolbox
 1. Locate the top-left panel
-2. Click on the **Effects** tab
+
+    ![Add a video to your timeline](\assets\locating_left-ezgif.com-video-to-gif-converter.gif){: style="width:600px; height:350px; display: block; margin: 0 auto"}
+
+2. Click on the **Toolbox** tab
+
+    ![Add a video to your timeline](\assets\opening_toolbox-ezgif.com-video-to-gif-converter.gif){: style="width:600px; height:350px; display: block; margin: 0 auto"}
 
 #### Select Transition Type
 1. From the dropdown menu, choose:
     - **Video Transitions** for visual effects
+
+        ![Add a video to your timeline](\assets\opening_video_transition-ezgif.com-video-to-gif-converter.gif){: style="width:600px; height:350px; display: block; margin: 0 auto"}
+
     - **Audio Transitions** for sound crossfades
+
+        ![Add a video to your timeline](\assets\opening_audio_transitions-ezgif.com-video-to-gif-converter.gif){: style="width:600px; height:350px; display: block; margin: 0 auto"}
 
 #### Choose a Transition
 1. Browse the available transitions
 2. Hover over options to see previews
 3. Select your desired transition
 
+    ![Add a video to your timeline](\assets\hovering_over_transitions-ezgif.com-video-to-gif-converter.gif){: style="width:600px; height:350px; display: block; margin: 0 auto"}
+
 #### Apply the Transition
 1. Click and drag the transition to your timeline:
     - **Between clips**: For standard transitions
     - **Start/end of clip**: For fade-in/out effects
 
+        ![Add a video to your timeline](\assets\clicking_and_dragging-ezgif.com-video-to-gif-converter.gif){: style="width:600px; height:350px; display: block; margin: 0 auto"}
+
 #### Adjust Transition Settings
 1. Click on the transition in the timeline
-2. Open the **Inspector** panel
-3. Modify parameters:
+2. Modify parameters:
     - Duration
     - Alignment
     - Custom settings
 
+        ![Add a video to your timeline](\assets\editing_transitions-ezgif.com-video-to-gif-converter.gif){: style="width:600px; height:350px; display: block; margin: 0 auto"}
+
 #### Preview the Transition
 1. Play the clip in the **Preview** window
+
+    ![Add a video to your timeline](\assets\preview_transition-ezgif.com-video-to-gif-converter.gif){: style="width:600px; height:350px; display: block; margin: 0 auto"}
 
 #### Refine the Transition
 1. Repeat adjustments as needed
