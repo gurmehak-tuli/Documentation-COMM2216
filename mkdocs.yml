@@ -44,7 +44,7 @@ nav:
     - Timeline: timeline.md
     - Effects: effects.md
     - Transform: transform.md
-    - Transition: transitions.md
+    - Transitions: transitions.md
     - Render: render.md
     - Troubleshooting: troubleshooting.md
     - Glossary: glossary.md
