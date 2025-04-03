@@ -37,3 +37,14 @@ markdown_extensions:
   - attr_list
 
 copyright: Copyright &copy; 2025 Guri & Patrick
+
+nav:
+    - Home: index.md
+    - Setup: setup.md
+    - Timeline: timeline.md
+    - Effects: effects.md
+    - Transform: transform.md
+    - Transition: transition.md
+    - Render: render.md
+    - Troubleshooting: troubleshooting.md
+    - Glossary: glossary.md
