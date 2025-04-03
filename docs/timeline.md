@@ -39,6 +39,8 @@ For each video clip, you may want to cut some part of it out. These steps will s
 ![Import footage](./assets/timeline/select_select_mode-ezgif.com-video-to-gif-converter.gif){: style="width:600px; height:350px; display: block; margin: 0 auto"}
 4. Right click on the footage you would like to cut and select Delete.
 ![Import footage](./assets/timeline/delete_clip-ezgif.com-video-to-gif-converter.gif){: style="width:600px; height:350px; display: block; margin: 0 auto"}
+!!! info
+    If you want to undo this delete, or any action in general, simply press **Cntrl + Z** or go to *Edit->Undo*.
 5. Adjust the timeline as needed.
 ![Import footage](./assets/timeline/adjust_timeline-ezgif.com-video-to-gif-converter.gif){: style="width:600px; height:350px; display: block; margin: 0 auto"}
 
@@ -48,3 +50,7 @@ For each video clip, you may want to cut some part of it out. These steps will s
 ![Import footage](./assets/timeline/move_playhead_bar-ezgif.com-video-to-gif-converter.gif){: style="width:600px; height:350px; display: block; margin: 0 auto"}
 2. Press the play button to see the preview
 ![Import footage](./assets/timeline/play_preview-ezgif.com-video-to-gif-converter.gif){: style="width:600px; height:350px; display: block; margin: 0 auto"}
+!!! info
+    The preview video might lag when playing. This is because DaVinci Resolve is rendering the video in real time. The final video will play properly after rendering.
+!!!success
+    You have successfully assembled your project timeline! You can move on the next section.
