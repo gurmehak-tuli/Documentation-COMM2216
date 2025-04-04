@@ -1,5 +1,9 @@
 ## Rendering Your Project in DaVinci Resolve
 
+#### Overview
+
+Rendering is the final step where DaVinci Resolve processes your edited timeline into a finished video file. This converts all your edits, effects, and transitions into a single playable video that you can share or upload.
+
 #### Navigate to the Deliver Page
 1. Switch to the **Deliver** page using the bottom navigation panel
 
@@ -50,15 +54,18 @@
 2. Check estimated time remaining
 3. View completed file size estimation
 
-#### Locate Your Rendered File
-1. After completion, navigate to your chosen destination
-2. Play the video to verify quality
-
-    ![Add a video to your timeline](./assets/render/end_result-ezgif.com-video-to-gif-converter.gif){: style="width:600px; height:350px; display: block; margin: 0 auto"}
-
 
 !!! warning "Important Notes"
      - **Do not close** DaVinci Resolve during rendering
      - Avoid running other hardware-intensive software
      - Ensure adequate power supply (for laptops)
      - Monitor storage space during long renders
+
+#### Locate Your Rendered File
+1. After completion, navigate to your chosen destination
+2. Play the video to verify quality
+
+    ![Add a video to your timeline](./assets/render/end_result-ezgif.com-video-to-gif-converter.gif){: style="width:600px; height:350px; display: block; margin: 0 auto"}
+
+!!! success
+    You have successfully rendered to your video! You can move on to the next section.

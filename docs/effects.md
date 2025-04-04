@@ -1,12 +1,16 @@
 ## Applying Effects in DaVinci Resolve
 
+#### Overview
+
+DaVinci Resolve allows you to enhance your video clips with visual and audio effects. These effects can adjust colors, create motion, or apply stylized filters. This section will guide you through accessing the effects library, applying them to your clips, customizing their settings, and previewing the final result before exporting.
+
 #### Navigate to the Edit Page
 1. Switch to the **Edit** page using the bottom navigation panel
 
     ![Add a video to your timeline](./assets/transition/opening_edit-ezgif.com-video-to-gif-converter.gif){: style="width:600px; height:350px; display: block; margin: 0 auto"}
 
 #### Access the Toolbox
-1. Locate the top-left panel
+1. Locate the bottom-left panel
 
     ![Add a video to your timeline](./assets/transition/locating_left-ezgif.com-video-to-gif-converter.gif){: style="width:600px; height:350px; display: block; margin: 0 auto"}
 
@@ -35,7 +39,6 @@
 1. Select the clip with applied effect
 2. Open the **Effects** panel
 3. Adjust parameters:
-    - Effect intensity
     - Custom settings specific to the effect
 
         ![Add a video to your timeline](./assets/effect/edit_effect-ezgif.com-video-to-gif-converter.gif){: style="width:600px; height:350px; display: block; margin: 0 auto"}
@@ -49,3 +52,6 @@
 #### Refine as Needed
 1. Repeat adjustments as needed
 2. Try different effects if unsatisfied
+
+!!! success
+    You have successfully added effects to your video! You can move on to the next section.
