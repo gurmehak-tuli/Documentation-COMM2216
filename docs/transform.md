@@ -44,19 +44,5 @@ More complex editing options, like cropping, zooming in, or changing the audio v
 1. Navigate to the Audio Tab and enter the new volume value
 ![Import footage](./assets/transform/volume_transform-ezgif.com-video-to-gif-converter.gif){: style="width:600px; height:350px; display: block; margin: 0 auto"}
 
-#### Use Keyframes for more complex edits
-
-You might want to more complex edits that play during the video. For example, you might want the video clip to zoom in as the video progresses. These steps will help you use keyframes to apply these special effects.
-
-1. Move the playhead bar to the frame that the special effect should start
-2. Enter the starting value of the effect
-![Import footage](./assets/transform/starting_effect-ezgif.com-video-to-gif-converter.gif){: style="width:600px; height:350px; display: block; margin: 0 auto"}
-3. Add a keyframe for the effect
-![Import footage](./assets/transform/start_keyframe-ezgif.com-video-to-gif-converter.gif){: style="width:600px; height:350px; display: block; margin: 0 auto"}
-4. Move the playhead bar to the frame that the special effect should finish
-5. Enter the ending value for the effect
-6. Move to the previous keyframe and preview the change
-![Import footage](./assets/transform/move_and_preview-ezgif.com-video-to-gif-converter.gif){: style="width:600px; height:350px; display: block; margin: 0 auto"}
-
 !!! success
     You have successfully used the transform tab to edit your video! You can move on to the next section.
