@@ -64,7 +64,7 @@ After completing this guide, you’ll be able to:
 
 3.  When interacting with DaVinci Resolve's graphial user interface (GUI), we might give you a helpful GIF that shows you what to do. For example, here is a GIF that shows you how to add imported footage to your timeline so you can begin editing the footage.
 
-    ![Add a video to your timeline](/assets/ADD_VIDEO_TO_TIMELINE.gif){: style="width:300px; height:200px"}
+    ![Add a video to your timeline](./assets/ADD_VIDEO_TO_TIMELINE.gif){: style="width:300px; height:200px"}
 
 4.  We'll use special info blocks to give you extra information, inform you when a task is done, or warn you before you make an irreversible action. Here's what each of those info blocks look like.
 
